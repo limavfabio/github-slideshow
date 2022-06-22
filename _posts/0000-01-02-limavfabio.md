@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+“There is only one bad word: taxes.” -Ron Swanson
 Use the left arrow to go back!
